@@ -1,0 +1,12 @@
+# ninja log v6
+2	35	1740829055360039509	CMakeFiles/nienazwany.dir/organizm.cpp.o	85d32e205b911b1b
+3	35	1740829055361039500	CMakeFiles/nienazwany.dir/mieszkaniec.cpp.o	712e378804013780
+4	363	1740829055362039491	CMakeFiles/nienazwany.dir/nisza.cpp.o	46da593ce1083edd
+3	591	1740829055361039500	CMakeFiles/nienazwany.dir/sasiedztwo.cpp.o	bc9f7bb7ec4d21bd
+4	557	1740829055362039491	CMakeFiles/nienazwany.dir/osobniki.cpp.o	939fe648e416c004
+2	846	1740829055360039509	CMakeFiles/nienazwany.dir/generatorlosowy.cpp.o	fdbd74b5002e4ba3
+5	857	1740829055363039481	CMakeFiles/nienazwany.dir/srodowisko.cpp.o	7c0d0e922303c517
+1	997	1740829055359039518	CMakeFiles/nienazwany.dir/main.cpp.o	1272fd4d473a290e
+997	1117	1740829056355030331	nienazwany	7206b8b15a976d77
+4	1357	1740829337317418618	CMakeFiles/nienazwany.dir/main.cpp.o	1272fd4d473a290e
+1357	1519	1740829338670401108	nienazwany	7206b8b15a976d77
